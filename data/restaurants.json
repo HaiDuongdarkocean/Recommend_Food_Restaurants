@@ -1,1 +1,9 @@
-[{"name":"Nguyen Hai Duong","address":"Xom 3 - Quan Uyen - Minh Chau - Yen my - Hung Yen","cuisine":"banh que","website":"https://amazon.com","description":"awesome!"}]
+[
+    {
+        "name": "Nguyen Hai Duong",
+        "address": "Xom 3 - Quan Uyen - Minh Chau - Yen my - Hung Yen",
+        "cuisine": "banh que",
+        "website": "https://amazon.com",
+        "description": "awesome!"
+    }
+]
